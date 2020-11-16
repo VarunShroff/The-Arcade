@@ -2,7 +2,7 @@
 * Authors: Varun Shroff
 * Assignment Name: The Ultimate Arcade
 * Date: June 9th, 2020
-* Assignment Description:  This program allows the user to play not one, not two, but five different games. All games take advatnage of the 8x8 Matrix andthe user can swap between games at any time
+* Assignment Description:  This program allows the user to play not one, not two, but five different games with all the games taking advantage of the 8x8 Matrix display.
 * 
 */
 
